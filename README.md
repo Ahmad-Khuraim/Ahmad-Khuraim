@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning , Web Development & Graphic Designing 
 - 🌱 I’m currently learning Python Language 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me..
+
 
 <!---
 Ahmad-Khuraim/Ahmad-Khuraim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
