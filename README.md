@@ -34,10 +34,11 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ###  Tech Stack
 
-<div align="center">
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&color=5C3EE8)
@@ -48,15 +49,16 @@
 </div>
 
 ---
-
-###  GitHub Stats (Elemental Edition)
-
 <div align="center">
+  
+###  GitHub Stats 
+
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Khuraim&theme=radical&hide_border=true)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Khuraim&layout=compact&theme=radical&hide_border=true)
+
 
 </div>
