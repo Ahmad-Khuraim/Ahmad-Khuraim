@@ -2,9 +2,12 @@ name: Generate Snake
 
 on:
   schedule:
-    # Har 6 ghante mein update hoga
     - cron: "0 */6 * * *"
   workflow_dispatch:
+
+# 👇 YE WALA PART ADD KIYA HAI PERMISSION KE LIYE
+permissions: 
+  contents: write
 
 jobs:
   build:
@@ -14,7 +17,6 @@ jobs:
       
       - uses: Platane/snk@v3
         with:
-          # Aapka github user name automatically le lega
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
