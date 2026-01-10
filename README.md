@@ -49,16 +49,3 @@
 </div>
 
 ---
-<div align="center">
-  
-###  GitHub Stats 
-
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmad-Khuraim&theme=radical&hide_border=true)
-
-<br/>
-
-
-
-</div>
